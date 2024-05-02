@@ -1,0 +1,50 @@
+.content { 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0 15%;
+    height: 5.75rem;
+    background-color: #111;
+}
+
+.logo {
+ display: flex;
+ width: 4rem;
+ height: 4rem;
+ border-radius: 50%;
+ background-color: #ffff;
+}
+
+.menu {
+    display: flex;
+    gap: 2.5rem;
+    cursor: pointer;
+    color :#ffff
+}
+
+.menu p{
+    margin-top: 0.2rem;
+   font-size: 1rem;
+}
+
+.menu p:hover{
+    color: #b0b0b0;
+    transition: color 0.5s ease;
+ }
+
+.social_media {
+    display: flex;
+    margin-left: 3rem;
+    gap: 2rem;
+    margin-right: 3rem;
+}
+
+.social_media img {
+    cursor: pointer;
+}
+
+.social_media img:hover {
+    transform: scale(1.2);
+  }
+
