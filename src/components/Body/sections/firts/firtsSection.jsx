@@ -13,8 +13,8 @@ export const FirtsSection = () => {
         </div>
         <div className={styles.about}>
           <p>
-            Hi! I am a Front-end developer specialized in React,<br/> but I have
-            knowledge of other frameworks, <br/> able to adapt perfectly to meet the
+            Hi! I am a Front-end developer specialized in React, but I have
+            knowledge of other frameworks, able to adapt perfectly to meet the
             specific formatting requirements of any product or project.
           </p>
         </div>

@@ -2,6 +2,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 10%;
   width: 100%;
   height: 35rem;
   background-color: #ffff;
@@ -13,16 +14,15 @@
   justify-content: center;
   flex-direction: column;
   align-items: flex-start;
-  width: 50%;
   height: 100%;
 }
 
 .container {
-  width: 100%;
+  width: 35em;
   display: flex;
-  align-items: center;
+  justify-content: center;
   gap: 1.2rem;
-  padding: 0 10rem;
+  padding: 0 10%;
   flex-direction: column;
 }
 
@@ -41,14 +41,14 @@
 
 .about {
   text-align: flex-start;
-  color: #515050;
+  color: #696868;
+  font-weight: 500;
 }
 
 .second_div {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 50%;
   height: 100%;
   background-color: #ffff;
 }
